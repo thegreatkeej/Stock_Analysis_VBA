@@ -1,4 +1,4 @@
-# Stock_Analysis_VBA_Challenge.xlsm
+# VBA_Challenge2.xlsm
 Challenge #2 analyzes stocks using VBA to automate
 ## Overview of Project
 
